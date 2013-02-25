@@ -15,9 +15,11 @@ http://gitorious.org/dtmf-generator
 FSK
 =====
 http://en.wikipedia.org/wiki/Frequency-shift_keying  
-hijack:  
-  http://web.eecs.umich.edu/~prabal/projects/hijack/  
-  http://code.google.com/p/hijack-main/  
-  http://www.seeedstudio.com/depot/hijack-development-pack-p-865.html  
-  http://www.creativedistraction.com/demos/sensor-data-to-iphone-through-the-headphone-jack-using-arduino/  
+hijack: 
+-------
+    http://web.eecs.umich.edu/~prabal/projects/hijack/  
+    http://code.google.com/p/hijack-main/  
+    https://github.com/ab500/hijack-infinity.git  
+    http://www.seeedstudio.com/depot/hijack-development-pack-p-865.html  
+    http://www.creativedistraction.com/demos/sensor-data-to-iphone-through-the-headphone-jack-using-arduino/  
 http://code.google.com/p/arms22/  
